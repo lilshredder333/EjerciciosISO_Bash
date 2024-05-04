@@ -1,9 +1,3 @@
-# Ejercicio 1
-
-## Haz un script que muestre por pantalla cuántos parámetros se le han pasado y qué valor tienen el primer y segundo parámetro.
-
-```shell
-
 #!/bin/bash
 
 mostrar_parametros() {
@@ -13,5 +7,3 @@ mostrar_parametros() {
 }
 
 mostrar_parametros "$@"
-
-```
